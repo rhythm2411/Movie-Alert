@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
+  "movie": "The Odyssey",
+  "requested_date": "20260801",
+  "venue_code": "PVPU",
+  "venue_label": "PVR IMAX with Laser, Priya: Delhi",
+  "url_template": "https://in.bookmyshow.com/cinemas/national-capital-region-ncr/pvr-imax-with-laser-priya-delhi/buytickets/PVPU/{date}",
   "min_references": 10
 }
